@@ -7,4 +7,4 @@ def get_min_num_of_coins(coins_lst, money):
     return r[money]
 
 if __name__ == "__main__":
-    print get_min_num_of_coins([2, 3, 5], 567)
+    print get_min_num_of_coins([1, 3, 5], 11)
